@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MailProject:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="MailServer.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/MailProject/src/Server/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="MailProject" />
+    </root>
+  </artifact>
+</component>
