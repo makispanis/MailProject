@@ -22,5 +22,8 @@ A complete preview of the project can be seen in the following video, in which t
 
   
 
-https://github.com/makispanis/MailProject/assets/56236325/1e29308f-b9e6-4e82-8eec-099b63929c79
+
+https://github.com/makispanis/MailProject/assets/56236325/c9fa5f84-977e-49b7-bd85-08c4192ed00b
+
+
 
